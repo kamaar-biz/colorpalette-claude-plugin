@@ -1,0 +1,23 @@
+{
+  "name": "seasonal-color-analysis",
+  "displayName": "Seasonal Color Analysis",
+  "version": "0.1.0",
+  "description": "A light 12-season color estimate from a single photo, with the verified starter and caution colors for your season.",
+  "author": {
+    "name": "ColorPaletteAnalysis",
+    "url": "https://colorpaletteanalysis.com"
+  },
+  "homepage": "https://colorpaletteanalysis.com",
+  "repository": "https://github.com/kamaar-biz/colorpalette-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "color analysis",
+    "seasonal color",
+    "personal color",
+    "style"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://colorpaletteanalysis.com/learn/",
+  "supportUrl": "https://colorpaletteanalysis.com/contact/",
+  "privacyPolicyUrl": "https://colorpaletteanalysis.com/privacy/"
+}

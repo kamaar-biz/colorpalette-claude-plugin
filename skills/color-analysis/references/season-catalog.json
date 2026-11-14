@@ -1,0 +1,218 @@
+[
+  {
+    "id": "light-spring",
+    "name": "Light Spring",
+    "family": "spring",
+    "guideHref": "/learn/seasons/light-spring/",
+    "starterColors": [
+      "peach",
+      "warm coral",
+      "light golden yellow",
+      "aqua",
+      "clear periwinkle"
+    ],
+    "cautionColors": [
+      "black",
+      "deep burgundy",
+      "muddy olive"
+    ]
+  },
+  {
+    "id": "warm-spring",
+    "name": "Warm Spring",
+    "family": "spring",
+    "guideHref": "/learn/seasons/warm-spring/",
+    "starterColors": [
+      "warm coral",
+      "golden yellow",
+      "grass green",
+      "tomato red",
+      "turquoise"
+    ],
+    "cautionColors": [
+      "icy pastels",
+      "cool fuchsia",
+      "charcoal grey"
+    ]
+  },
+  {
+    "id": "bright-spring",
+    "name": "Bright Spring",
+    "family": "spring",
+    "guideHref": "/learn/seasons/bright-spring/",
+    "starterColors": [
+      "clear tomato red",
+      "bright turquoise",
+      "warm fuchsia",
+      "golden yellow",
+      "grass green"
+    ],
+    "cautionColors": [
+      "dusty mauve",
+      "muddy brown",
+      "muted taupe"
+    ]
+  },
+  {
+    "id": "light-summer",
+    "name": "Light Summer",
+    "family": "summer",
+    "guideHref": "/learn/seasons/light-summer/",
+    "starterColors": [
+      "powder blue",
+      "soft rose",
+      "lavender",
+      "light periwinkle",
+      "cool mint"
+    ],
+    "cautionColors": [
+      "black",
+      "orange",
+      "mustard"
+    ]
+  },
+  {
+    "id": "cool-summer",
+    "name": "Cool Summer",
+    "family": "summer",
+    "guideHref": "/learn/seasons/cool-summer/",
+    "starterColors": [
+      "rose pink",
+      "soft fuchsia",
+      "cool berry",
+      "slate blue",
+      "medium grey"
+    ],
+    "cautionColors": [
+      "orange",
+      "warm gold",
+      "tomato red"
+    ]
+  },
+  {
+    "id": "soft-summer",
+    "name": "Soft Summer",
+    "family": "summer",
+    "guideHref": "/learn/seasons/soft-summer/",
+    "starterColors": [
+      "dusty rose",
+      "mauve",
+      "soft teal",
+      "muted plum",
+      "greyed blue"
+    ],
+    "cautionColors": [
+      "neon brights",
+      "pure black",
+      "warm orange"
+    ]
+  },
+  {
+    "id": "soft-autumn",
+    "name": "Soft Autumn",
+    "family": "autumn",
+    "guideHref": "/learn/seasons/soft-autumn/",
+    "starterColors": [
+      "soft teal",
+      "dusty coral",
+      "camel",
+      "muted olive",
+      "warm taupe"
+    ],
+    "cautionColors": [
+      "icy pastels",
+      "pure black",
+      "neon brights"
+    ]
+  },
+  {
+    "id": "warm-autumn",
+    "name": "Warm Autumn",
+    "family": "autumn",
+    "guideHref": "/learn/seasons/warm-autumn/",
+    "starterColors": [
+      "pumpkin",
+      "olive green",
+      "warm terracotta",
+      "mustard",
+      "rust"
+    ],
+    "cautionColors": [
+      "icy pastels",
+      "cool fuchsia",
+      "blue-black"
+    ]
+  },
+  {
+    "id": "deep-autumn",
+    "name": "Deep Autumn",
+    "family": "autumn",
+    "guideHref": "/learn/seasons/deep-autumn/",
+    "starterColors": [
+      "chocolate brown",
+      "deep teal",
+      "rust red",
+      "forest green",
+      "burnt orange"
+    ],
+    "cautionColors": [
+      "pastels",
+      "icy grey",
+      "neon brights"
+    ]
+  },
+  {
+    "id": "bright-winter",
+    "name": "Bright Winter",
+    "family": "winter",
+    "guideHref": "/learn/seasons/bright-winter/",
+    "starterColors": [
+      "true red",
+      "royal blue",
+      "emerald",
+      "fuchsia",
+      "pure white"
+    ],
+    "cautionColors": [
+      "muted earth tones",
+      "dusty rose",
+      "orange-based nudes"
+    ]
+  },
+  {
+    "id": "cool-winter",
+    "name": "Cool Winter",
+    "family": "winter",
+    "guideHref": "/learn/seasons/true-winter/",
+    "starterColors": [
+      "true red",
+      "royal blue",
+      "icy pink",
+      "charcoal",
+      "cool emerald"
+    ],
+    "cautionColors": [
+      "warm orange",
+      "mustard",
+      "peach"
+    ]
+  },
+  {
+    "id": "deep-winter",
+    "name": "Deep Winter",
+    "family": "winter",
+    "guideHref": "/learn/seasons/deep-winter/",
+    "starterColors": [
+      "black",
+      "deep burgundy",
+      "cool navy",
+      "emerald",
+      "true red"
+    ],
+    "cautionColors": [
+      "pastels",
+      "warm orange",
+      "muted earth tones"
+    ]
+  }
+]
